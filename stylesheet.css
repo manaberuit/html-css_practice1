@@ -1,8 +1,11 @@
 .title{
-
 }
 
 .sample img{
   width:25%;
   height:auto;
+}
+
+.right{
+  padding-left:20px;
 }
